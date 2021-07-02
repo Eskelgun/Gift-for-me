@@ -7,7 +7,7 @@ import { GiftGrid } from './components/GiftGrid';
 const GiftForMe = () => {
 
     // const categories = ['A', 'B', 'C'];
-    const [categories, setCategories] = useState(['Pokemon']);
+    const [categories, setCategories] = useState(['Sexy Crisp Girl']);
 
     // const addCategory = () => {
     //     // setCategories(['D', ...categories]);
